@@ -4,7 +4,6 @@ namespace Config;
 
 use CodeIgniter\Config\BaseConfig;
 
-//11
 class App extends BaseConfig
 {
     /**
